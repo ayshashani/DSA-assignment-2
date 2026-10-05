@@ -1,0 +1,10 @@
+Postfix Expression: 8 3 2 * + 6 2 / -
+
+Expression Tree Traversals:
+Inorder   : 8 + 3 * 2 - 6 / 2
+Preorder  : - + 8 * 3 2 / 6 2
+Postorder : 8 3 2 * + 6 2 / -
+
+Evaluation Results:
+Postfix Evaluation using Stack = 11
+Expression Tree Evaluation      = 11
